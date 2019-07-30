@@ -1,9 +1,10 @@
 #pragma once
 
+#include<list>
 class CScene
 {
 private:
-
+	
 
 public:
 	virtual void Initialize () = 0;
